@@ -1,0 +1,2910 @@
+{
+  "generated_at": "2026-08-05T22:21:30",
+  "passed": true,
+  "baseline": {
+    "article_pages": 239,
+    "amazon_specific_pages": 202,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Roswell_UFO_crash_f2c9c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_509th_atomic_reputat_5e4272": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_509th_group_vs_wing_8f3718": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_blanchard_release_ro_4f214e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_counterintelligence_b9c411": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_fort_worth_command_t_c7d37a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_haut_press_release_w_0f01f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_air_force_ufo_field_cbc47a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_blue_book_701_uniden_aa0aff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_roswell_1990s_not_bl_fff7f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_roswell_blue_book_ab_1a5c9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_sign_grudge_blue_boo_3af2a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_ufo_soviet_threat_fo_98a842": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_barney_barnett_crash_b3ea12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_gerald_anderson_clai_9aed38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_glenn_dennis_hospita_ee6ff2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_roswell_body_claim_t_baa082": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_roswell_body_proof_s_ab245b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_walter_haut_affidavi_ee10f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_alien_recovery_paper_dd926f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_fbi_teletype_roswell_fda7fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_flying_disc_1947_mea_7d175f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_fort_worth_photo_lim_338286": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_newton_balloon_ident_480b74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_test_dummies_body_me_3d4328": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_brazel_debris_discov_459ea9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_brazel_witness_accou_5bdacb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_project_mogul_explan_2128c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_cold_war_sec_11c5ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_debris_evide_865514": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_military_res_0fe950": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_cold_war_fragmented_85ea9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_nuclear_info_born_se_ab0494": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_ordinary_debris_secr_aa6e6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_roswell_need_to_know_5d2b05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_soviet_test_detectio_7463ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_atmospheric_sound_ch_179e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_flight4_sonobuoy_lau_323410": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_mogul_balloon_trains_e30edc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_mogul_route_reconstr_461a29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_roswell_radar_reflec_5aa266": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_soviet_test_detectio_5652f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_jesse_marcel_later_t_c27d01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_alien_body_s_085c57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_memory_conta_01b561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_missing_reco_4cb340": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_witness_thre_42498c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_walter_haut_posthumo_069679": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_brazel_small_debris_04f77a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_brazel_weather_ballo_4871f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_floral_tape_symbols_82ff90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_fort_worth_photo_evi_6fded4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_missing_roswell_test_4b0949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_radar_reflector_debr_0a8ba3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_dummy_recovery_memor_3ab26f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_fbi_teletype_balloon_6f0923": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_flying_disc_announce_c7d9fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_fort_worth_debris_ph_8c1ee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_magnesium_sample_tes_68c7b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_roswell_debris_chain_9ddfc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_fbi_roswell_record_98854c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_flying_disc_wording_28afe3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_fort_worth_display_60a6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_jesse_marcel_role_af3c3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_roswell_newspaper_re_9960eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_roswell_public_react_53acc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_1947_gallup_saucer_p_b03a07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_1947_saucer_report_s_0d5287": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_flight_105_pilot_sig_c698aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_kenneth_arnold_flyin_420ef2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_maury_island_saucer_150cc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_military_saucer_secu_60b839": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_leading_ques_c03cb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_shared_sourc_dba2e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_source_monit_673619": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_story_sharpe_3dc8a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_witness_conf_e1c5f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_testing_roswell_memo_fe4d83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_gofast_parallax_d88ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_navy_uap_videos_4e8b60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_what_unidentified_me_f3b9a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_alamogordo_mogul_ope_a1a2dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_atmospheric_sound_ch_179e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_altitude_contr_0bf5fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_balloon_train_502b15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_tracking_recov_d0277d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_radar_reflector_debr_0a8ba3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_crary_diary_flight_4_aea601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_flight_4_route_recon_a8c7ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_atomic_test_de_baa1c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_balloon_train_f89b4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_debris_weather_95853a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_radar_reflecto_a87577": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_alien_story_11bf46": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_archive_acce_a165ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_first_revers_319756": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_late_disclos_624418": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_missing_evid_bdb484": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_secrecy_spil_d7c367": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_509th_intelligence_r_e5eb66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_fort_worth_explanati_4b8767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_project_mogul_explan_2128c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_roswell_response_tim_1449d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_roswell_trust_debate_108f43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_walter_haut_statemen_37a02d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_alien_autopsy_film_s_53857f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_fbi_roswell_memo_hea_bf67d4": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_majestic_12_authenti_c36250": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_ramey_memo_reading_l_fd3bbd": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_roswell_provenance_f_9ed22c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_roswell_slides_museu_6a5970": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_independence_day_ros_e66c9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_jose_chung_ufo_relia_57d918": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_little_green_men_ros_c6332e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_roswell_1994_testimo_adf0f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_roswell_teen_drama_i_16a1fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_x_files_roswell_cons_04f9bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_flight_4_roswell_ide_135d57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_gao_roswell_records_a48823": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_missing_roswell_reco_354737": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_project_mogul_roswel_b9d75e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_roswell_accident_rep_de759a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_roswell_reports_1994_56f47b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_festival_attendance_ab3919": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_alien_brandi_3eb08d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_beyond_alien_ee7643": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_crash_site_v_b239f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_ufo_festival_8ba78a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_museum_displays_21678a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_509th_history_entry_82f420": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_fbi_roswell_teletype_9991f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_federal_roswell_reco_f9cb09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_roswell_archive_fili_7afbbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_roswell_blue_book_ab_1a5c9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_two_1947_roswell_rec_51503e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_arnold_vs_roswell_ev_fa05b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_phoenix_lights_vs_ro_a759f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_rendlesham_vs_roswel_710e10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_socorro_vs_roswell_9eacac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_strong_ufo_evidence_423549": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_ufo_narrative_mergin_3e71fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_alien_autopsy_legacy_cc41e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_grey_alien_roswell_i_582adf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_1980s_reviva_1e9abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_tourism_with_c838de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_ufo_festival_8ba78a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_x_files_roswell_effe_98d4d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_believers_sc_170a2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_199_c8ca43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_att_fc73c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_eco_236e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_evi_946dc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_serious_talk_d1587b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_official_reports_amp_05fe3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_adaptive_cla_7b34d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_coverup_temp_c9e951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_disclosure_g_2241d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_incident_boo_577441": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_two_historical_roswe_41e3be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_friedman_roswell_red_9cb165": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_karl_pflock_changed_e8f2c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_moore_disinformation_2978fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_randle_schmitt_expan_84250d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_robert_todd_archival_69a9fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_roswell_witness_vett_9ccc23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_brazel_unfamiliar_ba_1a99c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_decorative_tape_hier_522d43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_fragile_scattered_ba_c57507": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_misleading_weather_b_be5542": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_missing_aircraft_par_5c1b4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_mogul_identification_227fb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_fort_worth_debris_sw_98bd9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_jesse_marcel_memory_704668": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_marcel_cavitt_confli_a163e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_1947_witness_cbcbc0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_eyewitness_v_8a1cef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_memory_conta_01b561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Roswell_UFO_crash_f2c9c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_509th_atomic_reputat_5e4272": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_509th_group_vs_wing_8f3718": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_blanchard_release_ro_4f214e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_counterintelligence_b9c411": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_fort_worth_command_t_c7d37a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_haut_press_release_w_0f01f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_air_force_ufo_field_cbc47a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_blue_book_701_uniden_aa0aff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_roswell_1990s_not_bl_fff7f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_roswell_blue_book_ab_1a5c9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_sign_grudge_blue_boo_3af2a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_ufo_soviet_threat_fo_98a842": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_barney_barnett_crash_b3ea12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_gerald_anderson_clai_9aed38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_glenn_dennis_hospita_ee6ff2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_roswell_body_claim_t_baa082": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_roswell_body_proof_s_ab245b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_walter_haut_affidavi_ee10f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_alien_recovery_paper_dd926f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_fbi_teletype_roswell_fda7fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_flying_disc_1947_mea_7d175f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_fort_worth_photo_lim_338286": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_newton_balloon_ident_480b74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_test_dummies_body_me_3d4328": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_brazel_debris_discov_459ea9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_brazel_witness_accou_5bdacb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_project_mogul_explan_2128c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_cold_war_sec_11c5ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_debris_evide_865514": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_military_res_0fe950": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_cold_war_fragmented_85ea9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_nuclear_info_born_se_ab0494": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_ordinary_debris_secr_aa6e6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_roswell_need_to_know_5d2b05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_soviet_test_detectio_7463ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_atmospheric_sound_ch_179e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_flight4_sonobuoy_lau_323410": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_mogul_balloon_trains_e30edc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_mogul_route_reconstr_461a29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_roswell_radar_reflec_5aa266": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_soviet_test_detectio_5652f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_jesse_marcel_later_t_c27d01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_alien_body_s_085c57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_memory_conta_01b561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_missing_reco_4cb340": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_witness_thre_42498c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_walter_haut_posthumo_069679": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_brazel_small_debris_04f77a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_brazel_weather_ballo_4871f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_floral_tape_symbols_82ff90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_fort_worth_photo_evi_6fded4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_missing_roswell_test_4b0949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_radar_reflector_debr_0a8ba3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_dummy_recovery_memor_3ab26f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_fbi_teletype_balloon_6f0923": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_flying_disc_announce_c7d9fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_fort_worth_debris_ph_8c1ee0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_magnesium_sample_tes_68c7b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_roswell_debris_chain_9ddfc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_fbi_roswell_record_98854c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_flying_disc_wording_28afe3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_fort_worth_display_60a6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_jesse_marcel_role_af3c3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_roswell_newspaper_re_9960eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_roswell_public_react_53acc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_1947_gallup_saucer_p_b03a07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_1947_saucer_report_s_0d5287": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_flight_105_pilot_sig_c698aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_kenneth_arnold_flyin_420ef2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_maury_island_saucer_150cc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_military_saucer_secu_60b839": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_leading_ques_c03cb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_shared_sourc_dba2e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_source_monit_673619": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_story_sharpe_3dc8a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_witness_conf_e1c5f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_testing_roswell_memo_fe4d83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_aaro_case_record_ec235f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_gofast_parallax_d88ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_modern_crash_retriev_ecb328": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_navy_uap_videos_4e8b60": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_pilot_uap_reporting_469682": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_what_unidentified_me_f3b9a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_alamogordo_mogul_ope_a1a2dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_atmospheric_sound_ch_179e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_altitude_contr_0bf5fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_balloon_train_502b15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_tracking_recov_d0277d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_radar_reflector_debr_0a8ba3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_crary_diary_flight_4_aea601": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_flight_4_route_recon_a8c7ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_atomic_test_de_baa1c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_balloon_train_f89b4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_debris_weather_95853a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_radar_reflecto_a87577": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_alien_story_11bf46": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_archive_acce_a165ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_first_revers_319756": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_late_disclos_624418": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_missing_evid_bdb484": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_secrecy_spil_d7c367": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_509th_intelligence_r_e5eb66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_fort_worth_explanati_4b8767": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_project_mogul_explan_2128c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_roswell_response_tim_1449d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_roswell_trust_debate_108f43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_walter_haut_statemen_37a02d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_alien_autopsy_film_s_53857f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_fbi_roswell_memo_hea_bf67d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_majestic_12_authenti_c36250": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_ramey_memo_reading_l_fd3bbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_roswell_provenance_f_9ed22c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_roswell_slides_museu_6a5970": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_independence_day_ros_e66c9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_jose_chung_ufo_relia_57d918": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_little_green_men_ros_c6332e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_roswell_1994_testimo_adf0f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_roswell_teen_drama_i_16a1fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_x_files_roswell_cons_04f9bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_flight_4_roswell_ide_135d57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_gao_roswell_records_a48823": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_missing_roswell_reco_354737": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_project_mogul_roswel_b9d75e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_roswell_accident_rep_de759a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_roswell_reports_1994_56f47b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_festival_attendance_ab3919": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_alien_brandi_3eb08d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_beyond_alien_ee7643": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_crash_site_v_b239f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_ufo_festival_8ba78a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_museum_displays_21678a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_509th_history_entry_82f420": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_fbi_roswell_teletype_9991f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_federal_roswell_reco_f9cb09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_roswell_archive_fili_7afbbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_roswell_blue_book_ab_1a5c9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_two_1947_roswell_rec_51503e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_arnold_vs_roswell_ev_fa05b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_phoenix_lights_vs_ro_a759f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_rendlesham_vs_roswel_710e10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_socorro_vs_roswell_9eacac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_strong_ufo_evidence_423549": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_ufo_narrative_mergin_3e71fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_alien_autopsy_legacy_cc41e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_grey_alien_roswell_i_582adf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_1980s_reviva_1e9abe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_tourism_with_c838de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_ufo_festival_8ba78a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_x_files_roswell_effe_98d4d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_believers_sc_170a2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_199_c8ca43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_att_fc73c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_eco_236e0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_evi_946dc6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_serious_talk_d1587b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_official_reports_amp_05fe3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_adaptive_cla_7b34d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_coverup_temp_c9e951": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_disclosure_g_2241d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_incident_boo_577441": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_two_historical_roswe_41e3be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_friedman_roswell_red_9cb165": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_karl_pflock_changed_e8f2c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_moore_disinformation_2978fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_randle_schmitt_expan_84250d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_robert_todd_archival_69a9fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_roswell_witness_vett_9ccc23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_brazel_unfamiliar_ba_1a99c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_decorative_tape_hier_522d43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_fragile_scattered_ba_c57507": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_misleading_weather_b_be5542": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_missing_aircraft_par_5c1b4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_mogul_identification_227fb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_fort_worth_debris_sw_98bd9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_jesse_marcel_memory_704668": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_marcel_cavitt_confli_a163e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_1947_witness_cbcbc0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_eyewitness_v_8a1cef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_memory_conta_01b561": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 239,
+  "regressions": []
+}

@@ -1,0 +1,5075 @@
+{
+  "generated_at_utc": "2026-08-05T21:21:26.268286Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2",
+      "title": "Roswell: Mystery, Evidence, and the 1947 Crash",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Roswell Incident",
+        "Interpretations of the Roswell Debris",
+        "Factors Fueling the Roswell Legend"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26",
+      "title": "The 509 th Bombardment",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "509 th Bombardment Group Operational History",
+        "Interpretations of the 1947 Debris",
+        "Key Personnel in the Roswell Response"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_509th_atomic_reputat_5e4272",
+      "title": "Did Atomic Prestige Make Roswell More Convincing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "509 th Bombardment Group Historical Milestones",
+        "509 th Expertise vs. Roswell Knowledge",
+        "Impact of 509 th Prestige on Roswell"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_509th_group_vs_wing_8f3718",
+      "title": "Was It the 509 th Group or Wing?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "509 th Unit Lineage Chronology",
+        "Military Hierarchy: Group vs Wing",
+        "Roswell Naming Accuracy Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_blanchard_release_ro_4f214e",
+      "title": "Who Approved Roswell's Flying Disc Release?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell 509 th Bombardment Group Time line",
+        "Blanchard's Authorization Interpretations",
+        "Roswell Command Authority Facts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_counterintelligence_b9c411",
+      "title": "Why Did Counterintelligence Go to the Ranch?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Counterintelligence Investigation Workflow",
+        "Security Risk Hypotheses at Roswell",
+        "Roles in the 1947 Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_fort_worth_command_t_c7d37a",
+      "title": "How Roswell Lost Control of Its Own Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Narrative Shift Time line",
+        "Fort Worth Interpretation Debates",
+        "Eighth Air Force Command Structure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_509th_group_5bdc26_haut_press_release_w_0f01f6",
+      "title": "What Roswell's Press Release Actually Said",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chain of Custody for the Roswell Disc",
+        "Haut Release vs. Later Retellings",
+        "Key Facts of the Haut Release"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce",
+      "title": "The U S",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in Roswell Records Review",
+        "Debris Origin Interpretations",
+        "Sources of Body Narratives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_air_force_ufo_field_cbc47a",
+      "title": "How the Air Force Investigated a UFO Report",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Standard UFO Evidence Categories",
+        "Routine vs. Roswell Investigation Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_blue_book_701_uniden_aa0aff",
+      "title": "Did Blue Book's 701 Cases Prove Anything Extraordinary?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Classification Outcomes",
+        "Interpretations of the 701 Unidentified Cases",
+        "Factors Limiting Blue Book Investigations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_roswell_1990s_not_bl_fff7f5",
+      "title": "Was Roswell Really Reinvestigated by Project Blue Book?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_genealogy",
+        "tug_of_war"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "other"
+      ],
+      "titles": [
+        "Project Blue Book vs. 1990 s Roswell Inquiry",
+        "1990 s Roswell Records Audit Key Stages",
+        "Evidence Limitations in 1990 s Reconstruction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.182,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_roswell_blue_book_ab_1a5c9d",
+      "title": "Why Roswell Barely Appears in Blue Book Files",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell's Evolution from News to Legend",
+        "Roswell and Project Blue Book Records",
+        "Factors Limiting Roswell's Official Visibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_sign_grudge_blue_boo_3af2a1",
+      "title": "How Sign, Grudge and Blue Book Changed Course",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Air Force UFO Programs",
+        "Project Sign vs. Project Grudge Outlooks",
+        "Blue Book Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce_ufo_soviet_threat_fo_98a842",
+      "title": "Why the Air Force Looked for Soviets, Not Aliens",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Air Force Intelligence Investigation Workflow",
+        "Cold War Security Threat Hypotheses",
+        "Institutional Priorities of Project Blue Book"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129",
+      "title": "Recovered Alien Body",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Narrative Evolution Time line",
+        "Air Force vs. Witness Explanations",
+        "Key Witnesses and Credibility Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_barney_barnett_crash_b3ea12",
+      "title": "Did Barney Barnett See Bodies Near Roswell?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Barnett Story Propagation Time line",
+        "Barnett Claim Evidence Analysis",
+        "Historical Limitations of the Claim"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_gerald_anderson_clai_9aed38",
+      "title": "Why Gerald Anderson's Roswell Story Fell Apart",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Gerald Anderson's Roswell Testimony Time line",
+        "Anderson vs. Barnett Narratives",
+        "Factors Undermining Anderson's Credibility"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_glenn_dennis_hospita_ee6ff2",
+      "title": "What Happened to Glenn Dennis's Missing Nurse?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Glenn Dennis Mortuary Inquiries",
+        "Verifiable vs. Unverified Claims",
+        "Expected Hospital Documentation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_roswell_body_claim_t_baa082",
+      "title": "When Did Roswell's Alien Body Story Begin?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Narrative Evolution Time line",
+        "Roswell Body Claim Interpretations",
+        "Required Evidence for Body Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_roswell_body_proof_s_ab245b",
+      "title": "What Would Count as Proof of Roswell Bodies?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Required Evidence for Roswell Claims",
+        "Official Findings vs. Witness Claims",
+        "Roswell Investigation Key Stages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alien_body_stories_e41129_walter_haut_affidavi_ee10f5",
+      "title": "How Much Weight Should Haut's Affidavit Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Walter Haut's Testimony Evolution",
+        "Interpretations of Haut's 2002 Affidavit",
+        "Contents of the 2002 Affidavit"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6",
+      "title": "Evidence Against Alien",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Time line of Roswell Evidence Evolution",
+        "Terrestrial vs. Extraterrestrial Explanations",
+        "Verified Fabrications in Roswell Lore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_alien_recovery_paper_dd926f",
+      "title": "Where Is the Alien Recovery Paper Trail?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Roswell Records Search Process",
+        "Roswell Narrative vs. Documentary Evidence",
+        "Expected Records for Large Operations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_fbi_teletype_roswell_fda7fe",
+      "title": "What the FBI Recorded on Roswell Day",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "July 8, 1947 FBI Teletype Key Stages",
+        "Teletype vs. Later Roswell Claims",
+        "Limitations of the FBI Teletype"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_flying_disc_1947_mea_7d175f",
+      "title": "Did 'Flying Disc' Mean an Alien Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Press Release Chronology",
+        "1947 Linguistic Context vs Modern Interpretation",
+        "Categories of 1947 Flying Disc Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_fort_worth_photo_lim_338286",
+      "title": "What Do the Roswell Debris Photos Really Show?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Debris Components in Fort Worth Photos",
+        "Photographic Evidence vs. Historical Claims",
+        "Fort Worth Photographic Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_newton_balloon_ident_480b74",
+      "title": "Was Roswell Debris Just Balloon Equipment?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Irving Newton's Roswell Examination Time line",
+        "Interpretations of Roswell Debris Materials",
+        "Components of a 1947 RAWIN Target"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_alternative_evidence_55d1f6_test_dummies_body_me_3d4328",
+      "title": "Did Test Dummies Become Roswell Aliens?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "New Mexico Dummy Drop Key Stages",
+        "Dummy Hypothesis vs. Timing Conflict",
+        "Evidence of Dummy Recovery Scenes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98",
+      "title": "William Brazel s",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Time line of the 1947 Roswell Discovery",
+        "Interpretations of the Brazel Ranch Debris",
+        "Physical Components of the Ranch Debris"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_brazel_debris_discov_459ea9",
+      "title": "What Brazel Found on the Ranch",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Debris Discovery Time line 1947",
+        "Interpretations of the Corona Debris",
+        "Physical Characteristics of Recovered Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_brazel_witness_accou_5bdacb",
+      "title": "How Brazel's Story Changed Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mac Brazel's 1947 Discovery Time line",
+        "Brazel Testimony Interpretation Conflict",
+        "Categories of Recovered Debris"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_project_mogul_explan_2128c2",
+      "title": "Did Project Mogul Explain Brazel's Debris?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Mogul Operational Workflow",
+        "Roswell Debris Interpretations",
+        "Mogul Balloon Train Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_cold_war_sec_11c5ea",
+      "title": "How Secrecy Created the Roswell Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Roswell Narrative",
+        "Interpretations of Roswell Secrecy",
+        "Components of the Roswell Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_debris_evide_865514",
+      "title": "What the Roswell Debris Evidence Shows",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Reported Roswell Ranch Debris Materials",
+        "Project Mogul vs. Extraterrestrial Claims",
+        "Evidence Limitations in Roswell Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_brazel_ranch_discove_62bd98_roswell_military_res_0fe950",
+      "title": "Why the Military Changed Its Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Army Air Field Response Time line",
+        "Interpretations of the Roswell Reversal",
+        "Key Elements of the Roswell Controversy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3",
+      "title": "Military Secrecy",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cold War Secrecy Evolution Time line",
+        "Roswell Debris Interpretations",
+        "Mechanisms of Cold War Secrecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_cold_war_fragmented_85ea9e",
+      "title": "Why Cold War Secrecy Left Roswell Records Scattered",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Record Fragmentation in Cold War Archives",
+        "Access Barriers Before FOIA 1966",
+        "Agencies Involved in Roswell Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_nuclear_info_born_se_ab0494",
+      "title": "Why Nuclear Secrets Were Classified From the Start",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Atomic Energy Act Secrecy Models",
+        "Scope of Restricted Data Categories",
+        "Manhattan Project Security Continuity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_ordinary_debris_secr_aa6e6f",
+      "title": "How Ordinary Balloon Debris Concealed a Secret Mission",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Mogul Operational Secrecy Flow",
+        "Roswell Debris: Components vs. System",
+        "Recovered Project Mogul Materials"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_roswell_need_to_know_5d2b05",
+      "title": "Why Roswell Officers Did Not Know the Whole Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Information Flow",
+        "Roswell Officer Knowledge Analysis",
+        "Factors Influencing Roswell Confusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_soviet_test_detectio_7463ce",
+      "title": "Why Detecting a Soviet Bomb Had to Stay Secret",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Strategic Time line",
+        "Risks of Intelligence Exposure",
+        "Atomic Energy Detection System Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_secrecy_4389e3_weather_balloon_cove_fec8c2",
+      "title": "Why the Weather Balloon Story Was True but Misleading",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Incident Official Messaging Time line",
+        "Project Mogul vs. Standard Weather Balloons",
+        "Components of Recovered Roswell Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767",
+      "title": "Cold War Technology",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Project Mogul Balloon Train Components",
+        "Roswell Debris Interpretations",
+        "Cold War Secrecy and UFO Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_atmospheric_sound_ch_179e0c",
+      "title": "Could the Atmosphere Carry a Nuclear Blast?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Engineering Requirements",
+        "Atmospheric Sound Channel Dynamics",
+        "Nuclear Explosion Infrasound Signatures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_flight4_sonobuoy_lau_323410",
+      "title": "Was the Missing Flight Really a Sonobuoy Test?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Flight 4 Time line",
+        "Interpretations of Crary's Diary",
+        "Evidence for Flight 4 Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_mogul_balloon_trains_e30edc",
+      "title": "Why One Balloon Was Not Enough",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Balloon Train Assembly",
+        "Standard vs. Mogul Balloon Systems",
+        "Mogul Train Component Inventory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_mogul_route_reconstr_461a29",
+      "title": "Could a Mogul Balloon Reach Brazel's Ranch?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Flight Reconstruction Steps",
+        "Mogul Explanation Interpretations",
+        "Reconstruction Uncertainty Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_roswell_radar_reflec_5aa266",
+      "title": "What Made the Roswell Debris Look Strange?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Mogul Radar Reflector Degradation",
+        "Roswell Debris Physical Characteristics",
+        "Project Mogul Reflector Construction Materials"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cold_war_technology_811767_soviet_test_detectio_5652f4",
+      "title": "How Could America Detect a Secret Atomic Test?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_snake",
+        "tree_roots"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nuclear Detection Method Trade offs",
+        "Evolution of the Atomic Energy Detection System",
+        "Project Mogul Contextual Roots"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546",
+      "title": "The Roswell Cover Up",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell 1947 Press Reversal Key Stages",
+        "Roswell Cover up Theory Levels",
+        "Evidence Gaps in Roswell Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_jesse_marcel_later_t_c27d01",
+      "title": "How Strong Is Jesse Marcel's Roswell Testimony?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Jesse Marcel's Roswell Testimony Time line",
+        "Interpretations of Marcel's Testimony",
+        "Characteristics of Recovered Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_alien_body_s_085c57",
+      "title": "Where Did Roswell's Alien Body Stories Begin?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Roswell Narrative",
+        "Interpretations of Roswell Body Claims",
+        "Verification Barriers for Witness Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_memory_conta_01b561",
+      "title": "Can Decades of Retelling Distort Roswell Memories?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanisms of Memory Reconstruction",
+        "Interpretations of Delayed Roswell Testimony",
+        "Credibility Tests for Witness Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_missing_reco_4cb340",
+      "title": "Do Missing Military Files Prove a Roswell Cover Up?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Record Gaps Interpretations",
+        "Identified Missing Roswell Records",
+        "Surviving Roswell Documentary Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_roswell_witness_thre_42498c",
+      "title": "Were Roswell Witnesses Really Threatened Into Silence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Witness Testimony Evolution",
+        "Secrecy Explanations for Roswell",
+        "Evidence Categories in Roswell Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_cover_up_claims_26f546_walter_haut_posthumo_069679",
+      "title": "Did Walter Haut's Final Affidavit Change Roswell?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Walter Haut's Roswell Time line",
+        "Haut's Affidavit Claims vs. Records",
+        "Historical Challenges of the Affidavit"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9",
+      "title": "The Roswell Debris",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Roswell Debris Material Interpretations",
+        "Physical Evidence from Foster Ranch",
+        "Roswell Archive and Evidence Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_brazel_small_debris_04f77a",
+      "title": "Could Roswell's Debris Fit in One Small Bundle?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Brazel's July 1947 Debris Inventory",
+        "Roswell Debris vs. Aircraft Crash",
+        "Foster Ranch Measurement Data"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_brazel_weather_ballo_4871f7",
+      "title": "Why Did Brazel Say It Wasn't a Balloon?",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "structure_taxonomy",
+        "comparison_columns"
+      ],
+      "roles": [
+        "other",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Weather Balloon vs. Project Mogul",
+        "Debris Materials Found by Brazel",
+        "Brazel's Testimony Evidential Limits"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_floral_tape_symbols_82ff90",
+      "title": "Were Roswell's Symbols Just Decorative Tape?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Roswell Symbol Narratives",
+        "Project Mogul Radar Target Explanations",
+        "Project Mogul Engineering Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_fort_worth_photo_evi_6fded4",
+      "title": "What Do the Fort Worth Debris Photos Show?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Visual Evidence in Fort Worth Photos",
+        "Competing Interpretations of Fort Worth Debris",
+        "Evidential Limits of 1947 Photographs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_missing_roswell_test_4b0949",
+      "title": "Why Can't Scientists Test the Roswell Debris?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chain of Custody Requirements",
+        "Roswell Material Interpretations",
+        "Modern Laboratory Capabilities"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_debris_debate_2137f9_radar_reflector_debr_0a8ba3",
+      "title": "How Closely Did Radar Reflectors Match Roswell?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Mogul Radar Reflector Components",
+        "Roswell Debris Material Analysis",
+        "Project Mogul Engineering Details"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5",
+      "title": "Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell 1947 Communication Time line",
+        "Roswell Debris Interpretations",
+        "Evidence Quality Assessment Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_dummy_recovery_memor_3ab26f",
+      "title": "Did Later Military Recoveries Become Roswell Memories?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Blending Mechanism at Roswell",
+        "Interpretations of Roswell Body Claims",
+        "Military Operations in New Mexico"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_fbi_teletype_balloon_6f0923",
+      "title": "Does the FBI Teletype Settle Roswell?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "July 8, 1947 Roswell Communications",
+        "Interpretations of the FBI Teletype",
+        "Evidence Limits of the Teletype"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_flying_disc_announce_c7d9fc",
+      "title": "What Did the Flying Disc Announcement Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Army Air Field Time line",
+        "Interpretations of the July 8 Reversal",
+        "Evidence Limits of the 1947 Release"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_fort_worth_debris_ph_8c1ee0",
+      "title": "Are the Fort Worth Photos Genuine Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Debris Visible in Fort Worth Photos",
+        "Evidence Limits of Fort Worth Photos",
+        "Major Marcel's Substitution Claim Time line"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_magnesium_sample_tes_68c7b0",
+      "title": "What Happened When UFO Metal Reached a Lab?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Provenance of the Roswell Specimen",
+        "ORNL Laboratory Findings vs. Claims",
+        "Composition of the Metallic Specimen"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_extraterrestrial_evi_1dcbb5_roswell_debris_chain_9ddfc5",
+      "title": "Can Any Roswell Fragment Be Authenticated?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chain of Custody Requirements",
+        "Provenance vs Laboratory Analysis",
+        "Gaps in Roswell Evidence Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc",
+      "title": "The 1947 Flying",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Army Air Field Time line",
+        "Interpretations of the Roswell Reversal",
+        "Factors Influencing Roswell's Fame"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_fbi_roswell_record_98854c",
+      "title": "What the FBI Record Says About Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "FBI Roswell Teletype Time line",
+        "Roswell Record Interpretations",
+        "FBI Roswell Record Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_flying_disc_wording_28afe3",
+      "title": "Why 'Flying Disc' Mattered in 1947",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of the 1947 Flying Saucer Wave",
+        "Linguistic Nuances of 1947 Terminology",
+        "Components of the Roswell Announcement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_fort_worth_display_60a6dc",
+      "title": "The Fort Worth Moment That Changed Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Debris Messaging Time line 1947",
+        "Interpretations of the Fort Worth Display",
+        "Components of the Radar Reflector System"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_jesse_marcel_role_af3c3f",
+      "title": "What Jesse Marcel Revealed About Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Jesse Marcel's Roswell Chain of Events",
+        "Interpretations of Roswell Material",
+        "Marcel's Role in the Evidence Chain"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_roswell_newspaper_re_9960eb",
+      "title": "How Roswell's Newspaper Report Went Global",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Daily Record News Cycle",
+        "Interpretations of the Roswell Record",
+        "Components of the Roswell Report"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_disc_announce_c7d9fc_roswell_public_react_53acc8",
+      "title": "Why Roswell Captured Public Attention",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Roswell Announcement",
+        "Public Perception of the Roswell Disc",
+        "Factors Shaping the Roswell Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430",
+      "title": "The 1940 s Flying",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the 1947 Flying Saucer Wave",
+        "Interpretations of the 1947 Phenomena",
+        "Factors Driving the 1947 Media Wave"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_1947_gallup_saucer_p_b03a07",
+      "title": "What Americans Thought Flying Saucers Were",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Saucer Wave",
+        "1947 Public Explanations vs. Modern Myths",
+        "Factors Shaping 1947 Public Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_1947_saucer_report_s_0d5287",
+      "title": "Why Saucer Sightings Spread So Fast",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The 1947 Flying Saucer Media Cascade",
+        "Mechanisms of the 1947 Reporting Wave",
+        "Factors Influencing the Roswell Announcement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_flight_105_pilot_sig_c698aa",
+      "title": "Why the Flight 105 Sighting Carried Weight",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "United Air Lines Flight 105 Encounter",
+        "Evidence Quality of Flight 105",
+        "Characteristics of the 1947 Sighting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_kenneth_arnold_flyin_420ef2",
+      "title": "How Kenneth Arnold Created the Flying Saucer",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Flying Saucer Sighting",
+        "Arnold's Description vs. Media Interpretation",
+        "Factors Driving the Flying Saucer Phrase"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_maury_island_saucer_150cc8",
+      "title": "How Maury Island Became a Saucer Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Maury Island Incident Key Stages 1947",
+        "Maury Island Evidence Analysis",
+        "Maury Island Cultural Legacy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_flying_saucer_craze_653430_military_saucer_secu_60b839",
+      "title": "Why the Military Took Saucers Seriously",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "U.S. Air Force UFO Investigation Pipeline",
+        "1947 Military Intelligence Hypotheses",
+        "Factors Influencing Roswell Scrutiny"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111",
+      "title": "The Role",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the Roswell Narrative",
+        "Memory Mechanisms in Roswell Testimony",
+        "Criteria for Weighing Roswell Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_leading_ques_c03cb0",
+      "title": "Did Interviewers Put Details Into Roswell Memories?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Memory Reconstruction in Roswell Interviews",
+        "Open vs Suggestive Interviewing Methods",
+        "Indicators of Interviewer Supplied Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_shared_sourc_dba2e8",
+      "title": "Were Roswell Witnesses Truly Independent?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Narrative Evolution Time line",
+        "Independent vs. Contaminated Testimony",
+        "Witness Categories in Roswell Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_source_monit_673619",
+      "title": "Did Roswell Witnesses Remember the Wrong Source?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Source Monitoring Error Mechanism",
+        "Roswell Memory Distortion Factors",
+        "Verifying Roswell Witness Testimony"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_story_sharpe_3dc8a5",
+      "title": "How Roswell Stories Grew More Definite",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Reconstruction in Roswell Testimony",
+        "Consistency vs. Accuracy in Roswell",
+        "Mechanisms of Narrative Sharpening"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_roswell_witness_conf_e1c5f3",
+      "title": "Can a Confident Roswell Witness Still Be Wrong?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Memory Confidence Inflation",
+        "Subjective Confidence vs. Objective Accuracy",
+        "Corroboration Hierarchy for Roswell Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_memory_and_history_09c111_testing_roswell_memo_fe4d83",
+      "title": "What Makes a Roswell Memory Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Roswell Memory Credibility Hierarchy",
+        "Jesse Marcel Testimony vs Records",
+        "Verified Roswell Key Stages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd",
+      "title": "Modern Unidentified",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO UAP Case Resolution Workflow",
+        "UAP Interpretation vs. Official Findings",
+        "AARO FY 25 Resolved Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_aaro_case_record_ec235f",
+      "title": "What 1,870 UAP Reports Really Show",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO Resolved Case Categories",
+        "AARO vs. Public UAP Interpretations",
+        "AARO Dataset Operational Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_gofast_parallax_d88ec2",
+      "title": "Why Go Fast Looked Faster Than It Was",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Go Fast Video Analysis Workflow",
+        "Go Fast Interpretation Comparison",
+        "Go Fast Data Uncertainties"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_modern_crash_retriev_ecb328",
+      "title": "Do Modern Crash Retrieval Claims Have Proof?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "David Grusch Testimony Workflow",
+        "Evidence Standards for UAP Claims",
+        "AARO Historical Record Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_navy_uap_videos_4e8b60",
+      "title": "What Do the Navy UAP Videos Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Navy UAP Video Public Release Time line",
+        "Navy Video Authentication Limits",
+        "Factors Complicating UAP Interpretation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_pilot_uap_reporting_469682",
+      "title": "Why Pilots Hesitate to Report UAP",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Military Reporting Workflow",
+        "Barriers to Pilot Reporting",
+        "NASA UAP Data Quality Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_what_unidentified_me_f3b9a7",
+      "title": "Why Unidentified Does Not Mean Alien",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Data Analysis Workflow",
+        "AARO Interpretation of Unidentified Status",
+        "Commonly Identified UAP Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f",
+      "title": "Project Mogul",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Mogul Nuclear Detection Workflow",
+        "Roswell Debris Interpretations and Evidence",
+        "Project Mogul Hardware Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_alamogordo_mogul_ope_a1a2dc",
+      "title": "Why Mogul Tests Moved to Southern New Mexico",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Operational Workflow",
+        "Alamogordo vs. Roswell Roles",
+        "New Mexico Geographic Advantages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_atmospheric_sound_ch_179e0c",
+      "title": "Could the Atmosphere Carry a Nuclear Blast Signal?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Atmospheric Sound Wave Propagation",
+        "Project Mogul Technical Components",
+        "Atmospheric Sound Ducting Mechanics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_altitude_contr_0bf5fe",
+      "title": "Why Keeping Mogul Balloons Level Was So Hard",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Balloon Engineering Evolution",
+        "Factors Destabilizing Balloon Altitude",
+        "Operational Impacts of Altitude Drift"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_balloon_train_502b15",
+      "title": "Inside the Enormous Balloon Train Linked to Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "timeline_snake",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Project Mogul Balloon Train Components",
+        "Debris Scattering Mechanism at Roswell",
+        "Mogul vs. Standard Weather Balloons"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_mogul_tracking_recov_d0277d",
+      "title": "How a Secret Balloon Train Could Simply Disappear",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Tracking Methodology",
+        "Roswell Debris Interpretation Models",
+        "Factors Inhibiting Balloon Recovery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_nuclear_monitoring_a74b6f_radar_reflector_debr_0a8ba3",
+      "title": "Did Radar Reflectors Leave the Roswell Debris?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "ML 307 Radar Reflector Components",
+        "Project Mogul vs. Witness Claims",
+        "Roswell Debris Material Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_01e984",
+      "title": "Project Mogul Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Operational Workflow",
+        "Roswell Debris Interpretations",
+        "Components of Mogul Balloon Trains"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_crary_diary_flight_4_aea601",
+      "title": "The Diary Entry Behind the Flight 4 Claim",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Project Mogul June 4 Activities",
+        "Interpretations of Crary's Diary",
+        "Components of the Mogul Explanation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_flight_4_route_recon_a8c7ab",
+      "title": "Could Flight 4 Really Reach the Roswell Ranch?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Flight 4 Reconstruction",
+        "Roswell Debris Interpretation Models",
+        "Evidence for Flight 4 Reconstruction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_atomic_test_de_baa1c5",
+      "title": "How Balloons Could Hear an Atomic Test",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Mogul Acoustic Detection Workflow",
+        "Balloon Systems vs. Modern Monitoring",
+        "Project Mogul Technical Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_balloon_train_f89b4d",
+      "title": "Why Mogul Balloons Were So Unusually Large",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Components of a Mogul Balloon Train",
+        "Mogul vs. Standard Weather Balloons",
+        "Mogul Engineering and Operational Evolution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_debris_weather_95853a",
+      "title": "What Weeks Outdoors Would Do to Mogul Debris",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Neoprene Degradation on Foster Ranch",
+        "Mogul Balloon vs. Weathering Effects",
+        "Components of Mogul Balloon Train"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_project_mogul_01e984_mogul_radar_reflecto_a87577",
+      "title": "Why Radar Targets Looked Like Roswell Wreckage",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Project Mogul Radar Reflector Components",
+        "Roswell Debris: Witness vs. Mogul",
+        "Mogul Reflector Degradation Key Stages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_public_trust_6eccca",
+      "title": "Public Trust",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Incident Official Time line",
+        "Roswell Interpretations and Evidence",
+        "Factors Weakening Public Trust"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_alien_story_11bf46",
+      "title": "Why the Alien Version Was Easier to Believe",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_pipeline",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Narrative vs. Official Reconstruction",
+        "Official Reconstruction of Roswell Debris",
+        "Narrative Rewards of the Alien Story"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_archive_acce_a165ed",
+      "title": "Can Open Archives Rebuild Trust in Roswell?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Archive Transparency Evolution",
+        "Interpretations of Missing Records",
+        "Publicly Accessible Roswell Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_first_revers_319756",
+      "title": "Why the First Roswell Explanation Still Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Incident Communication Time line",
+        "Roswell Narrative Interpretations",
+        "Factors Shaping Roswell Perceptions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_late_disclos_624418",
+      "title": "Why the Truth Arrived Too Late for Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Disclosure Time line and Records",
+        "Interpretations of Roswell Witness Claims",
+        "Factors Weakening Public Trust"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_missing_evid_bdb484",
+      "title": "Can Missing Records Ever Disprove a Cover Up?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_horizon",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Interpretations of Missing Roswell Records",
+        "GAO Investigation of Roswell Records",
+        "Factors Creating Archival Uncertainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_public_trust_6eccca_roswell_secrecy_spil_d7c367",
+      "title": "How One Secret Made Bigger Claims Believable",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Roswell Secrecy Spillover Process",
+        "Project Mogul vs. Alien Claims",
+        "Drivers of Roswell Suspicion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d",
+      "title": "Roswell Army Air",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Army Air Field Response Time line",
+        "Interpretations of the Roswell Debris",
+        "RAAF Response Organizational Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_509th_intelligence_r_e5eb66",
+      "title": "Why the 509 th Handled Roswell Debris",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Debris Recovery Time line",
+        "Interpretations of the 509 th Findings",
+        "509 th Bomb Group Intelligence Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_fort_worth_explanati_4b8767",
+      "title": "Why Roswell's Explanation Changed Overnight",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Narrative Shift Time line 1947",
+        "Interpretations of the Fort Worth Reversal",
+        "Evidence for Balloon Identification"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_project_mogul_explan_2128c2",
+      "title": "Did Project Mogul Explain Roswell's Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Mogul Operational Workflow",
+        "Roswell Debris Interpretations",
+        "Mogul Balloon Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_roswell_response_tim_1449d7",
+      "title": "Roswell's Fast Moving Day of Conflicting Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Incident July 1947 Key Stages",
+        "Competing Explanations for Roswell Statements",
+        "Physical Evidence from Roswell Debris"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_roswell_trust_debate_108f43",
+      "title": "Why Roswell Created a Military Trust Problem",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Official Narrative Evolution",
+        "Interpretations of Roswell Credibility",
+        "Factors Sustaining Public Doubt"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_raaf_response_6dda3d_walter_haut_statemen_37a02d",
+      "title": "How Walter Haut Sparked the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell 1947 Communication Key Stages",
+        "Roswell Debris Interpretations",
+        "Walter Haut's Communication Role"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0",
+      "title": "Roswell Hoaxes",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Categories of Roswell Evidence Failures",
+        "Analysis of the Roswell Slides",
+        "Majestic 12 Document Authentication Process"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_alien_autopsy_film_s_53857f",
+      "title": "How Roswell's Alien Autopsy Spectacle Was Manufactured",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Staging the 1995 Alien Autopsy",
+        "Provenance Claims vs. Evidence",
+        "Factors Fueling the 1995 Illusion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_fbi_roswell_memo_hea_bf67d4",
+      "title": "Does the FBI Memo Prove a Roswell Crash?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Hottel Memo Interpretations vs Reality",
+        "Hottel Memorandum Content Summary",
+        "Verification Requirements vs Hottel Memo"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_majestic_12_authenti_c36250",
+      "title": "Why the Majestic 12 Documents Looked Real",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "MJ 12 Document Public Circulation Path",
+        "MJ 12 Authentication vs. Visual Plausibility",
+        "National Archives Findings on MJ 12"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_ramey_memo_reading_l_fd3bbd",
+      "title": "Can the Blurred Ramey Memo Really Be Decoded?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Physical Barriers to Ramey Memo Clarity",
+        "Digital Enhancement vs. Information Recovery",
+        "The Failure of Ramey Memo Decipherment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_roswell_provenance_f_9ed22c",
+      "title": "Why Dramatic Roswell Evidence So Often Falls Apart",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "The Anatomy of a Roswell Breakthrough",
+        "Roswell Slides: Contextual Interpretation",
+        "Requirements for Reliable Chain of Custody"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_hoaxes_0baea0_roswell_slides_museu_6a5970",
+      "title": "The Museum Label That Undid the Roswell Slides",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Deciphering the Roswell Slides Label",
+        "Roswell Slides Interpretations vs Reality",
+        "Evidence Confirming the Mesa Verde Mummy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_49874a",
+      "title": "Roswell in Film",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell's Evolution into Screen Shorthand",
+        "Interpretations of the Roswell Incident",
+        "Screen Portrayals of Roswell Mythology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_independence_day_ros_e66c9c",
+      "title": "When Roswell Became a Mainstream Movie Shortcut",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Mythology in Independence Day",
+        "Area 51 Narrative Layers",
+        "Evolution of Roswell in Film"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_jose_chung_ufo_relia_57d918",
+      "title": "Can Any Roswell Story Survive Retelling?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Narrative Distortion in Jose Chung's From Outer Space",
+        "Roswell Fiction vs. Jose Chung's From Outer Space",
+        "Satirical Elements of the Alien Autopsy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.444,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_little_green_men_ros_c6332e",
+      "title": "Why Roswell Became Funny in Star Trek",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Ferengi Time Travel to Roswell",
+        "Roswell Myth vs. DS 9 Reality",
+        "Comedy Devices in Little Green Men"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_roswell_1994_testimo_adf0f2",
+      "title": "How Roswell Made Disputed Memories Feel Historical",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Narrative Evolution of the Roswell Film",
+        "Cinematic vs. Historical Evidence Patterns",
+        "Dramatic Elements of the Roswell Film"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_roswell_teen_drama_i_16a1fa",
+      "title": "Why Roswell Became a Story About Belonging",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "earth_core",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell TV Series Narrative Shifts",
+        "Metaphors of Alien Concealment",
+        "Evolution of Roswell Storytelling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_media_49874a_x_files_roswell_cons_04f9bd",
+      "title": "Why Roswell Fit The X Files So Perfectly",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The X Files Roswell Narrative Evolution",
+        "Historical vs. Fictional Roswell Interpretations",
+        "Grammar of Secrecy in The X Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db",
+      "title": "The Roswell Report",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Investigation Key Stages",
+        "Project Mogul vs. Alien Claims",
+        "GAO Records Search Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_flight_4_roswell_ide_135d57",
+      "title": "Was Flight 4 Really the Roswell Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Project Mogul Flight 4 Reconstruction",
+        "Evidence for Flight 4 Identification",
+        "Missing Evidence in Roswell Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_gao_roswell_records_a48823",
+      "title": "What Did the GAO Really Find on Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Agencies Searched in GAO Audit",
+        "Interpretations of Destroyed Records",
+        "Two Surviving July 1947 Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_missing_roswell_reco_354737",
+      "title": "Do Roswell's Missing Files Point to a Cover Up",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "GAO Investigation of Roswell Records",
+        "Interpretations of the Roswell Gap",
+        "Categories of Missing Roswell Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_project_mogul_roswel_b9d75e",
+      "title": "Why Project Mogul Fit the Roswell Debris",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Project Mogul Balloon Train Components",
+        "Roswell Debris Evidence Comparison",
+        "Flight 4 Identification Key Stages"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_roswell_accident_rep_de759a",
+      "title": "Why No Roswell Aircraft Accident Report Existed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Roswell Records Investigation Steps",
+        "Reporting Rules: Aircraft vs. Balloons",
+        "Factors Explaining Missing Roswell Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_report_90b4db_roswell_reports_1994_56f47b",
+      "title": "Why the Air Force Issued Two Roswell Reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "US Air Force Roswell Investigation Time line",
+        "Comparison of Roswell Official Reports",
+        "Explanations for Alien Body Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e",
+      "title": "Roswell Tourism",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell's Evolution into a UFO Destination",
+        "Interpretations of the Roswell Museum Experience",
+        "Roswell's Diverse Cultural Institutions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_festival_attendance_ab3919",
+      "title": "Why Roswell's UFO Festival Numbers Swing So Much",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell UFO Festival 2022 vs 2023",
+        "Attendance vs Economic Impact Metrics",
+        "Factors Influencing Festival Variation"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_alien_brandi_3eb08d",
+      "title": "How Alien Imagery Became Roswell's City Brand",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell's Evolution into UFO Capital",
+        "Roswell's Themed Streetscape Elements",
+        "Impacts of Roswell's UFO Branding"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_beyond_alien_ee7643",
+      "title": "What Roswell Offers Beyond UFO Tourism",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Museum Historical Evolution",
+        "Roswell Museum vs. UFO Tourism",
+        "Roswell Museum Collection Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_crash_site_v_b239f7",
+      "title": "Can Tourists Actually Visit the Roswell Crash Site?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Public Access to Alleged UFO Skip Site",
+        "Competing Roswell Crash Site Interpretations",
+        "Barriers to Roswell Ranchland Access"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_roswell_ufo_festival_8ba78a",
+      "title": "How Roswell's UFO Festival Takes Over Downtown",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell UFO Festival Activities",
+        "Diverse Festival Attendee Profiles",
+        "Roswell Downtown Economic Ecosystem"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_roswell_tourism_42987e_ufo_museum_displays_21678a",
+      "title": "What the Roswell UFO Museum Actually Shows",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell 1947 Official Document Key Stages",
+        "Museum Evidence Category Comparison",
+        "International UFO Museum Research Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3",
+      "title": "Government UFO Records",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in Roswell Federal Records",
+        "Archival Interpretations of Roswell Gaps",
+        "Current Roswell Record Locations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_509th_history_entry_82f420",
+      "title": "What the 509 th History Actually Records",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "July 1947 Roswell Record Key Stages",
+        "509 th History Document Evidence Limits",
+        "Contextual Meaning of Flying Disc"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_fbi_roswell_teletype_9991f0",
+      "title": "Does the FBI Teletype Support a UFO Crash?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "FBI Roswell Teletype Transmission Flow",
+        "Roswell Teletype Interpretations vs. Facts",
+        "Physical Characteristics of Recovered Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_federal_roswell_reco_f9cb09",
+      "title": "How Wide Was the Federal Roswell Records Search?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "GAO Roswell Records Search Process",
+        "Roswell Documentation Findings vs. Expectations",
+        "Agencies Involved in Roswell Search"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_roswell_archive_fili_7afbbd",
+      "title": "Why There Is No Single Roswell Archive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Government Record Lifecycle Pathways",
+        "Interpreting Missing Roswell Documents",
+        "Roswell Record Distribution Map"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_roswell_blue_book_ab_1a5c9d",
+      "title": "Why Project Blue Book Has No Roswell File",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Air Force UFO Programs",
+        "Roswell vs. Standard Blue Book Cases",
+        "National Archives Roswell Record Analysis"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_archives_a6b7b3_two_1947_roswell_rec_51503e",
+      "title": "What the Two 1947 Roswell Records Agree On",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Record Transmission Key Stages",
+        "Military vs FBI Record Details",
+        "Shared Attributes of 1947 Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e",
+      "title": "Roswell Compared",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "gem"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Roswell Narrative Development Time line",
+        "Roswell vs. Other UFO Cases",
+        "Factors Driving Roswell's Fame"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_arnold_vs_roswell_ev_fa05b1",
+      "title": "Which Case Had the Stronger UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in 1947 UFO Events",
+        "Arnold vs. Roswell Evidence Models",
+        "Legacy of the 1947 UFO Era"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_phoenix_lights_vs_ro_a759f5",
+      "title": "Did Two Events Become One UFO Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1997 Phoenix Lights",
+        "Roswell vs. Phoenix Lights Comparison",
+        "Characteristics of the V Shaped Formation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_rendlesham_vs_roswel_710e10",
+      "title": "Why Rendlesham Is Not Really Britain's Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rendlesham Forest Military Investigation Time line",
+        "Rendlesham Forest vs. Roswell Comparison",
+        "Rendlesham Forest Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_socorro_vs_roswell_9eacac",
+      "title": "Is Socorro Stronger Than the Roswell Case?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Socorro vs. Roswell Evidential Trade offs",
+        "Lonnie Zamora's Socorro Witness Profile",
+        "Gaps in the Evidence Chain"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_strong_ufo_evidence_423549",
+      "title": "What Would Make a UFO Case Truly Strong?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Ideal UFO Evidence Chain",
+        "Roswell vs. USS Nimitz Evidence",
+        "UAP Scientific Evidence Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e_ufo_narrative_mergin_3e71fa",
+      "title": "How UFO Stories Grow More Coherent Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Narrative Expansion Time line",
+        "Roswell vs Phoenix Lights Evolution",
+        "Factors Driving Memory Contamination"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9",
+      "title": "Roswell and UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Roswell Narrative",
+        "Interpretations of the Roswell Incident",
+        "Roswell's Civic and Commercial Branding"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_alien_autopsy_legacy_cc41e5",
+      "title": "Why the Alien Autopsy Hoax Still Matters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1995 Alien Autopsy Fabrication Process",
+        "Persuasive Elements vs. Forensic Flaws",
+        "Factors Sustaining the Roswell Myth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_grey_alien_roswell_i_582adf",
+      "title": "How the Grey Alien Took Over Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Roswell Alien Mascot",
+        "Historical Record vs. Cultural Memory",
+        "Commercial Drivers of the Grey Mascot"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_1980s_reviva_1e9abe",
+      "title": "How Roswell Became Famous Decades After 1947",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Roswell Narrative Evolution Time line",
+        "Roswell Narrative Shift Comparison",
+        "Factors Driving Roswell's Popularity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_tourism_with_c838de",
+      "title": "Why People Visit Roswell Without Needing Proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Tourism Development Time line",
+        "Visitor Interpretations of Roswell",
+        "Museum Exhibits at International UFO Museum"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_roswell_ufo_festival_8ba78a",
+      "title": "How Roswell Turned Mystery Into a Festival",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Tourism Development Time line",
+        "Competing Interpretations of Roswell",
+        "Roswell Festival Economic Pillars"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_culture_ee27c9_x_files_roswell_effe_98d4d2",
+      "title": "How The X Files Changed the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The X Files Conspiracy Grammar",
+        "Evidence Interpretation Shifts",
+        "Roswell's Cultural Evolution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb",
+      "title": "The Roswell UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Festival Historical Evolution",
+        "Visitor Perspectives on Roswell",
+        "Roswell Festival Content Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_believers_sc_170a2b",
+      "title": "One Roswell Festival, Two Very Different Experiences",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "structure_taxonomy",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Interpretations of the Roswell Incident",
+        "Believer Experiences at Roswell Festival",
+        "Media Framing of the Festival"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_199_c8ca43",
+      "title": "The Weekend Roswell Became a Global Spectacle",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "data"
+      ],
+      "titles": [
+        "Roswell 50 th Anniversary Evolution",
+        "Roswell 1947 Interpretations",
+        "1997 Anniversary Impact Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_att_fc73c7",
+      "title": "Can Roswell Really Count Its UFO Festival Visitors?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell UFO Festival Data Sources",
+        "Roswell Festival Economic Comparison",
+        "Challenges in Counting Free Events"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_eco_236e0c",
+      "title": "How Alien Tourism Became Serious Business in Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "timeline_snake",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell's Tourism Economic Strategy",
+        "Roswell Festival Economic Impact Data",
+        "Roswell Visitor Spending Distribution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_festival_evi_946dc6",
+      "title": "Which Parts of Roswell's Festival Count as Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell 1947 Primary Document Trail",
+        "Evaluating Roswell Evidence Quality",
+        "Roswell Festival Experience Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_festival_eacbbb_roswell_serious_talk_d1587b",
+      "title": "Why Roswell Mixes UFO Research With Alien Fun",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UF Ologist Lecture Program Flow",
+        "Roswell Festival Dual Structures",
+        "Roswell Festival Cultural Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7",
+      "title": "Roswell s Place",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Narrative Evolution Time line",
+        "Roswell Debris Interpretations",
+        "Elements of the Roswell Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_official_reports_amp_05fe3b",
+      "title": "Why Government Reports Made Roswell Even Bigger",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Roswell Official Inquiries",
+        "Competing Explanations for Roswell Debris",
+        "Mechanisms Strengthening the Roswell Legend"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_adaptive_cla_7b34d8",
+      "title": "How Roswell Kept Growing After Claims Failed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Roswell Narrative",
+        "Official vs. Proponent Interpretations",
+        "Key Components of the Modern Narrative"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_coverup_temp_c9e951",
+      "title": "Why Every UFO Cover Up Leads Back to Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell 1947 Communication Key Stages",
+        "Interpretations of Roswell Secrecy",
+        "Components of the Roswell Model"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_disclosure_g_2241d0",
+      "title": "How Roswell Made Disclosure Ufology's Big Demand",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Roswell Narrative Template",
+        "Interpretations of Roswell Archives",
+        "Activism Tactics Post Roswell"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_roswell_incident_boo_577441",
+      "title": "The Book That Rebuilt the Roswell Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Narrative Evolution of the Roswell Case",
+        "Competing Interpretations of Roswell Debris",
+        "Narrative Elements of the 1980 Framework"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_history_41d2d7_two_historical_roswe_41e3be",
+      "title": "How One Roswell Story Became Two",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Roswell Press Story",
+        "Evidence Bases of Two Roswell Narratives",
+        "Components of the Post 1978 Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716",
+      "title": "UFO Investigators",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Narrative Evolution Time line",
+        "Competing Roswell Explanations",
+        "Witness Credibility Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_friedman_roswell_red_9cb165",
+      "title": "How Friedman Brought Roswell Back to Life",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "The 1978 Roswell Investigation Time line",
+        "Debates Over Jesse Marcel's Testimony",
+        "Core Elements of the Roswell Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_karl_pflock_changed_e8f2c1",
+      "title": "What Made Karl Pflock Abandon the Alien Theory?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Karl Pflock's Research Evolution",
+        "Roswell Debris Interpretations",
+        "Pflock's Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_moore_disinformation_2978fe",
+      "title": "Did Disinformation Undermine William Moore's Roswell Work?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Roswell Narrative",
+        "Interpretations of Moore's Credibility",
+        "Core Claims of The Roswell Incident"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_randle_schmitt_expan_84250d",
+      "title": "How Two Investigators Made Roswell Much Bigger",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Randle and Schmitt's Investigation Process",
+        "Two Site Model vs. Single Site Claim",
+        "Expanded Roswell Narrative Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_robert_todd_archival_69a9fe",
+      "title": "How Archival Records Changed the Roswell Debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Robert Todd's Archival Research Process",
+        "Project Mogul vs. Weather Balloons",
+        "Impact of Archival Evidence on Roswell"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_ufo_researchers_b63716_roswell_witness_vett_9ccc23",
+      "title": "Why Some Roswell Witnesses Failed Basic Checks",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Witness Vetting Workflow",
+        "Roswell Witness Credibility Factors",
+        "Risks in Oral History Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a",
+      "title": "The Weather Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Incident Key Stages 1947",
+        "Project Mogul vs. Extraterrestrial Claims",
+        "Components of a Mogul Radar Target"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_brazel_unfamiliar_ba_1a99c9",
+      "title": "Why the Debris Looked Unlike a Weather Balloon",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Standard vs. Project Mogul Balloons",
+        "Brazel's Debris Observations Analysis",
+        "Project Mogul Component Breakdown"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_decorative_tape_hier_522d43",
+      "title": "Were Roswell's 'Hieroglyphics' Just Decorative Tape?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of the Mogul Tape Explanation",
+        "Roswell Markings: Alien vs. Terrestrial",
+        "Uncertainties in the Mogul Explanation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_fragile_scattered_ba_c57507",
+      "title": "How Fragile Wreckage Could Cover So Much Ground",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Balloon Debris Dispersion",
+        "Debris Field Material Analysis",
+        "Project Mogul Material Properties"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_misleading_weather_b_be5542",
+      "title": "Why 'Weather Balloon' Told Only Half the Story",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "process_steps",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "Public vs. Secret Roswell Debris",
+        "Project Mogul Operational Key Stages",
+        "Components of Project Mogul Debris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_missing_aircraft_par_5c1b4f",
+      "title": "Where Were the Engines and Aircraft Structure?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Debris: Balloon vs. Aircraft",
+        "Materials Found by Mac Brazel",
+        "Evolution of Roswell Narratives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a_mogul_identification_227fb2",
+      "title": "How Strong Is the Case for a Mogul Landing?",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Project Mogul Physical Evidence",
+        "Mogul Identification vs. Documentary Gaps",
+        "The Path to 'Most Likely' Conclusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58",
+      "title": "Witness Testimonies",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in the Roswell Narrative",
+        "Conflicting Accounts of Recovered Debris",
+        "Mechanisms of Memory Distortion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_fort_worth_debris_sw_98bd9f",
+      "title": "Was the Fort Worth Roswell Debris Switched?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "structure_taxonomy",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Conflicting Recollections of Roswell Debris",
+        "Visual Evidence in Fort Worth Photographs",
+        "Limitations of the Photographic Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_jesse_marcel_memory_704668",
+      "title": "How Reliable Were Jesse Marcel's Roswell Memories?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Jesse Marcel's 1947 Roswell Time line",
+        "Project Mogul vs. Marcel's Claims",
+        "Historical Challenges to Marcel's Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_marcel_cavitt_confli_a163e4",
+      "title": "Why Did Marcel and Cavitt Remember Roswell Differently?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The 1947 Roswell Debris Recovery Path",
+        "Marcel vs. Cavitt Debris Interpretations",
+        "Factors Influencing Memory Divergence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_1947_witness_cbcbc0",
+      "title": "What Did Roswell Witnesses Say Before the Legend?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "July 1947 Roswell Official Time line",
+        "1947 Records vs. Modern Legend",
+        "Absence of Claims in 1947 Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_eyewitness_v_8a1cef",
+      "title": "Which Roswell Claims Were Truly Eyewitness Accounts?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Narrative Distortion in Roswell Retellings",
+        "Roswell Evidence Category Analysis",
+        "Key Roswell Witness Profiles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Roswell_UFO_crash_f2c9c2_witness_testimonies_9dfb58_roswell_memory_conta_01b561",
+      "title": "Did Roswell Publicity Change Witness Memories?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of the Roswell Narrative",
+        "Memory Reconstruction vs. Photographic Recall",
+        "Evidence Weighting in Roswell Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}
