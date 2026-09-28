@@ -820,7 +820,7 @@ As a result, these documents neither conclusively settle every later debate abou
 2.<a id="endnote-2"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency GAO Report to the Honorable Steven H  
-   Link:<a href="https://ufotransparency.com/files/1995-07-28-gao-[roswell-report" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1995-07-28-gao-[roswell-report</a>  
+   Link:<a href="https://ufotransparency.com/files/1995-07-28-https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/1995-07-28-https://ufotransparency.com/files/1995-07-28-gao-roswell-report-nsiad-95-187-gao-nsiad-95-187-roswell-1995</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Schiff, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico (NSIAD-95-187), U.S. Gener...</p></details>
 
 3.<a id="endnote-3"></a>
