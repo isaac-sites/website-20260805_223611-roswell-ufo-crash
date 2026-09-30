@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 13:08:30'
+last_modified_at: '2026-08-05 13:08:30'
 parent_title: The Weather Balloon | Roswell
 parent_permalink: /the-weather-balloon/
 parent_nav_short_title: The Weather Balloon
