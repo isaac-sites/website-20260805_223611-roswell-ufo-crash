@@ -4,7 +4,7 @@ title_full: Roswell Hoaxes Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /roswell-ufo-crash-f2c9c2-roswell/
+permalink: /roswell-ufo-crash-f2c9c2-roswell-roswell-hoaxes/
 description: Focused pages that expand on Roswell Hoaxes.
 date: '2026'
 layout: default

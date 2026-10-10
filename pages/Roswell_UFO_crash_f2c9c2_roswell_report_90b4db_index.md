@@ -4,7 +4,7 @@ title_full: The Roswell Report Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /roswell-ufo-crash-f2c9c2-roswell/
+permalink: /roswell-ufo-crash-f2c9c2-roswell-the-roswell-report/
 description: Focused pages that expand on The Roswell Report.
 date: '2026'
 layout: default

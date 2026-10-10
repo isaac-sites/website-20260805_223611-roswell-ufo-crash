@@ -4,7 +4,7 @@ title_full: Military Secrecy Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /roswell-ufo-crash-f2c9c2-cold-war/
+permalink: /roswell-ufo-crash-f2c9c2-cold-war-military-secrecy/
 description: Focused pages that expand on Military Secrecy.
 date: '2026'
 layout: default
