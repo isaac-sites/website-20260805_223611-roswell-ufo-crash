@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-weather/
 description: Focused pages that expand on The Weather Balloon.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_weather_balloon_expl_65e21a
 parent_title: The Weather Balloon | Roswell UFO crash

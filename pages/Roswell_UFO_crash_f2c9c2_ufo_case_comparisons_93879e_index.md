@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-ufo-case/
 description: Focused pages that expand on Roswell Compared.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_ufo_case_comparisons_93879e
 parent_title: Roswell Compared

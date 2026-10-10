@@ -285,6 +285,7 @@ next_link:
   short_title: Crash Claims
   heading_title: Do Modern Crash Retrieval Claims Have Proof?
 date: '2026-08-05 22:17:33 '
+last_modified_at: '2026-08-05 22:17:33 '
 header:
   og_image: /assets/images/Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_aaro_case_record_ec235f-Illustration-1-social.jpg
   preview_image: /assets/images/Roswell_UFO_crash_f2c9c2_modern_uap_debate_7c09bd_aaro_case_record_ec235f-Illustration-1.webp

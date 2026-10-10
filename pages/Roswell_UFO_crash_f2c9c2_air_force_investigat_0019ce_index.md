@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-air-force/
 description: Focused pages that expand on The U S.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_air_force_investigat_0019ce
 parent_title: The U S | Roswell UFO crash

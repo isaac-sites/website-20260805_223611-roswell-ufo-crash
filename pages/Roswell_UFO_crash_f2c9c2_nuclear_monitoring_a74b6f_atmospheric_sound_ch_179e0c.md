@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 19:43:02'
+last_modified_at: '2026-08-05 19:43:02'
 parent_title: Project Mogul | Roswell UFO crash
 parent_permalink: /project-mogul/
 parent_nav_short_title: Project Mogul

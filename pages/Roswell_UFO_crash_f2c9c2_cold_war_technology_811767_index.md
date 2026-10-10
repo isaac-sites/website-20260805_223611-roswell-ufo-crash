@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /roswell-ufo-crash-f2c9c2-cold-war/
 description: Focused pages that expand on Cold War Technology.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Roswell_UFO_crash_f2c9c2_cold_war_technology_811767
 parent_title: Cold War Technology | Roswell UFO crash
