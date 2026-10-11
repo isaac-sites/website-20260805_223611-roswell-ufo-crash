@@ -555,7 +555,7 @@ Early field projects also reveal how difficult the work is. Experimental campaig
 
 The modern UAP controversy persists partly because both secrecy and ridicule have damaged trust. For decades, military personnel and civilian pilots could fear professional consequences if they reported something they could not identify. That discouraged data collection and allowed unusual experiences to circulate informally, detached from radar logs, maintenance records or meteorological information.
 
-Congressional interest has produced formal reporting mechanisms and stronger records requirements. The 2024 National Defense Authorization Act directed the US National Archives to establish a UAP Records Collection and required federal agencies to identify, organise and transfer relevant records for eventual public disclosure, subject to lawful restrictions. This measure is important because it treats transparency as an archival process rather than a promise of a single dramatic revelation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
+Congressional interest has produced formal reporting mechanisms and stronger records requirements. The 2024 National Defense Authorization Act directed the US National Archives to establish a UAP Records Collection and required federal agencies to identify, organise and transfer relevant records for eventual public disclosure, subject to lawful restrictions. This measure is important because it treats transparency as an archival process rather than a promise of a single dramatic revelation.<span class="citation-link-wrap">[National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
 
 More disclosure will not necessarily confirm extraordinary claims. It may instead reveal how often UAP reports overlap with military exercises, drone activity, satellite visibility and classified test programmes. A RAND study of more than 100,000 public sighting reports found that reporting patterns were associated with factors including proximity to military operational areas. That does not explain every sighting, but it shows why location, air traffic and human activity must be examined before an event is labelled anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RRA2475 1</span><span class="citation-popover-snippet">RRA2475 1</span></span></span>
 
@@ -1060,7 +1060,7 @@ Modern UAP investigation has therefore moved beyond the dismissive assumption th
 
 17.<a id="endnote-17"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 18.<a id="endnote-18"></a>
    Source: archives.gov  
@@ -1227,7 +1227,7 @@ Modern UAP investigation has therefore moved beyond the dismissive assumption th
 
 53.<a id="endnote-53"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 54.<a id="endnote-54"></a>
    Source: media.defense.gov  
@@ -1269,7 +1269,7 @@ Modern UAP investigation has therefore moved beyond the dismissive assumption th
 
 62.<a id="endnote-62"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 63.<a id="endnote-63"></a>
    Source: rand.org  

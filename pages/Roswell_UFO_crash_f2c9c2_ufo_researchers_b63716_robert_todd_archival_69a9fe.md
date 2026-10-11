@@ -826,7 +826,7 @@ Regardless of which interpretation readers ultimately favour, Robert Todd change
 9.<a id="endnote-9"></a>
    Source: disclosurearchives.com  
    Title: fbi [flying disc](&#123;&#123; 'flying-disc/' | relative_url &#125;&#125;) master file 1947 1968  
-   Link:<a href="https://disclosurearchives.com/events/fbi-flying-disc-master-file" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/events/fbi-flying-disc-master-file</a>  
+   Link:https://disclosurearchives.com/events/fbi-flying-disc-master-file  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI 62-HQ-83894: the master &#x27;flying disc&#x27; file, 1947–1968 · Disclosure ArchivesMay 8, 2026 — Document Release Records: 1947–1968 · Releas...</p></details>
    Published: May 8, 2026  
 
