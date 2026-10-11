@@ -899,5 +899,4 @@ The Air Force's reports attempted many of these steps, particularly by publishin
 17.<a id="endnote-17"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link:https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena/Volume 1/Section 4 - Wikisource, the free online library^{[52]} Roswell Inve...</p></details>

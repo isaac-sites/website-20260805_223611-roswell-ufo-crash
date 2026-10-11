@@ -1060,7 +1060,6 @@ As Record Group 615 grows, the public may gain easier access to federal UFO and 
 
 15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 16.<a id="endnote-16"></a>
    Source: archives.gov  
@@ -1121,11 +1120,9 @@ As Record Group 615 grows, the public may gain easier access to federal UFO and 
 
 29.<a id="endnote-29"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 30.<a id="endnote-30"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 31.<a id="endnote-31"></a>
    Source: archives.gov  

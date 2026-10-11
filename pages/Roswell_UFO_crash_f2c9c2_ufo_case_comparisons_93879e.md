@@ -1070,7 +1070,6 @@ Roswell remains distinctive because the conventional explanation and the conspir
 
 22.<a id="endnote-22"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 23.<a id="endnote-23"></a>
    Source: archives.gov  
