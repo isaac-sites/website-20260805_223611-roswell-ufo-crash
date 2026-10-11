@@ -1060,7 +1060,6 @@ Modern UAP investigation has therefore moved beyond the dismissive assumption th
 
 17.<a id="endnote-17"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 18.<a id="endnote-18"></a>
    Source: archives.gov  
@@ -1227,7 +1226,6 @@ Modern UAP investigation has therefore moved beyond the dismissive assumption th
 
 53.<a id="endnote-53"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 54.<a id="endnote-54"></a>
    Source: media.defense.gov  
@@ -1269,7 +1267,6 @@ Modern UAP investigation has therefore moved beyond the dismissive assumption th
 
 62.<a id="endnote-62"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 63.<a id="endnote-63"></a>
    Source: rand.org  

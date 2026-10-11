@@ -872,7 +872,6 @@ That narrative proved remarkably durable because it offered an emotionally satis
 7.<a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: Section 1  
-   Link:https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena/Volume 1/Section 1 - Wikisource, the free online libraryMay 10, 2024 — REPOR...</p></details>
    Published: May 10, 2024  
 
