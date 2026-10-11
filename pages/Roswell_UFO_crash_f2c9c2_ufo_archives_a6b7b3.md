@@ -560,7 +560,7 @@ Likewise, an item appearing in a presidential library may be a citizen’s lette
 
 ## What the new UAP archive changes
 
-The 2024 National Defense Authorization Act required the National Archives and Records Administration to establish a dedicated Unidentified Anomalous Phenomena Records Collection. The resulting Record Group 615 is designed to receive digital copies of federal records concerning UAP, technologies of unknown origin and non-human intelligence, subject to the disclosure and postponement rules set out in the law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
+The 2024 National Defense Authorization Act required the National Archives and Records Administration to establish a dedicated Unidentified Anomalous Phenomena Records Collection. The resulting Record Group 615 is designed to receive digital copies of federal records concerning UAP, technologies of unknown origin and non-human intelligence, subject to the disclosure and postponement rules set out in the law.<span class="citation-link-wrap">[National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
 
 Federal agencies were instructed to review and organise relevant records, prepare digital copies and transfer them to the National Archives. Records are being added on a rolling basis, while agencies continue to manage the original files under their existing retention schedules. Publicly releasable copies are intended to become accessible through the National Archives Catalog; restricted versions may also be transferred with redactions or postponed disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
 
@@ -1060,7 +1060,7 @@ As Record Group 615 grows, the public may gain easier access to federal UFO and 
 
 15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 16.<a id="endnote-16"></a>
    Source: archives.gov  
@@ -1121,11 +1121,11 @@ As Record Group 615 grows, the public may gain easier access to federal UFO and 
 
 29.<a id="endnote-29"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 30.<a id="endnote-30"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 31.<a id="endnote-31"></a>
    Source: archives.gov  

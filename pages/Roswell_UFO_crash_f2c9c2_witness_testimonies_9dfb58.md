@@ -1220,7 +1220,7 @@ The enduring power of the Roswell testimony lies partly in this unresolved human
 
 52.<a id="endnote-52"></a>
    Source: nap.nationalacademies.org  
-   Link:<a href="https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891</a>  
+   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 
 53.<a id="endnote-53"></a>
    Source: nap.nationalacademies.org  
